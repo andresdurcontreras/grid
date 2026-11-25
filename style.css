@@ -9,8 +9,14 @@ body{
     font-family: "Roboto", sans-serif;
 }
 
-.header p{
+.header{
     font-size: 50px;
     text-align: center;
     padding: 20px 0;
+}
+
+.contenedor{
+    width: 90%;
+    max-width: 1000px;
+    border: 10px solid #000;
 }
